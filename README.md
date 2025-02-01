@@ -1,10 +1,10 @@
-# Aplicação CRUD Bonita
+# PRIMEIRA API EM JAVA!!!
 
 Uma aplicação CRUD (Create, Read, Update, Delete) simples e elegante para gerenciar dados de forma eficiente.
 
 ## Descrição
 
-Esta aplicação permite que você crie, leia, atualize e delete registros em um banco de dados de forma intuitiva e com uma interface bonita e amigável.
+Crie uma simples api com spring boot :)
 
 ## Funcionalidades
 
@@ -15,9 +15,8 @@ Esta aplicação permite que você crie, leia, atualize e delete registros em um
 
 ## Tecnologias Utilizadas
 
-- **Frontend**: HTML, CSS, JavaScript (React/Vue/Angular)
-- **Backend**: Node.js, Express
-- **Banco de Dados**: MongoDB/MySQL/PostgreSQL
+**Backend**: Spring Boot
+- **Banco de Dados**: H2 Databasse
 
 ## Como Executar o Projeto
 
