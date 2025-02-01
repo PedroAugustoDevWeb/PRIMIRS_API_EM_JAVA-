@@ -22,4 +22,4 @@ Crie uma simples api com spring boot :)
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/aplicacao-crud-bonita.git](https://github.com/PedroAugustoDevWeb/PRIMIRS_API_EM_JAVA-.git)
+   git clone https://github.com/seu-usuario/aplicacao-crud-bonita.git](https://github.com/PedroAugustoDevWeb/PRIMIRS_API_EM_JAVA-.git
