@@ -4,7 +4,7 @@ Uma aplicação CRUD (Create, Read, Update, Delete) simples e elegante para gere
 
 ## Descrição
 
-Crie uma simples api com spring boot :)
+uma simples api com spring boot :)
 
 ## Funcionalidades
 
