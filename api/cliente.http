@@ -1,0 +1,7 @@
+POST http://localhost:8080/api/novoaluno
+
+{
+    "name": "pedro",
+    "idade": 18,
+    "nota": 5
+}
